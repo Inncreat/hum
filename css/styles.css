@@ -611,10 +611,24 @@ width: 70%;
 
 .btn_2{
   width: 80vw;
+  height: 6vh;
 }
 
 .btn_3{
   width: 80vw;
+  height: 6vh;
+}
+
+.btn_2:hover{
+  width: 80vw;
+  height: 6vh;
+  background-color: #00AE64!important;
+}
+
+.btn_3:hover{
+  width: 80vw;
+  height: 6vh;
+  background-color: rgb(172, 1, 50)!important;
 }
 
 .facebook{
@@ -632,4 +646,30 @@ width: 70%;
 .details{
   width: 85%;
 }
+
+.rep{
+width="88%" 
+height="60%"
+}
+
+#sacrificio{
+display: none;
+}
+.vids a{
+  width: 30%;
+  margin: 0 2% 0 2%;
+}
+
+.other_txt{
+  position: absolute;
+  left: 30px;
+  margin: 15px 0 0 0;
+  z-index: 1;
+}
+
+.description_txt{
+  text-align: center;
+  margin: 0 10px 30px 10px;
+}
+
 }
